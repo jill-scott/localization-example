@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizationExample
+
+  Created by Jill Scott on 7/12/17.
+  Copyright © 2017 Jill. All rights reserved.
+*/
+
+"Welcome" = "Welcome";
+"This is an alert!" = "This is an alert!";
+"Cancel" = "Cancel";
+"Signup" = "Signup";

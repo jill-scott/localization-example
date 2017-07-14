@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Translate the xliff file, for example using online tools which provides a neat little interface for translating each string... require subscriptions or installs, however."; ObjectID = "7g8-ZK-Jbg"; */
+"7g8-ZK-Jbg.text" = "Translate the xliff file, for example using online tools which provides a neat little interface for translating each string... require subscriptions or installs, however.";
+
+/* Class = "UIButton"; normalTitle = "To NSLocalizedString"; ObjectID = "8Wb-bs-6O0"; */
+"8Wb-bs-6O0.normalTitle" = "To NSLocalizedString";
+
+/* Class = "UILabel"; text = "You can also add translation data (key-value pairs) in localizable.strings. file -> new -> file, strings file, localizable.strings"; ObjectID = "JgH-wE-vqy"; */
+"JgH-wE-vqy.text" = "You can also add translation data (key-value pairs) in localizable.strings. file -> new -> file, strings file, localizable.strings";
+
+/* Class = "UILabel"; text = "Add languages for localization"; ObjectID = "MXC-Ht-5uZ"; */
+"MXC-Ht-5uZ.text" = "Add languages for localization";
+
+/* Class = "UIButton"; normalTitle = "To storyboard text localization"; ObjectID = "Use-2g-sdx"; */
+"Use-2g-sdx.normalTitle" = "To storyboard text localization";
+
+/* Class = "UILabel"; text = "Then, instead of putting string literals directly into the code for the app, use NSLocalizedString(\"Hello\", comment: \"\"), set it to a constant, and use that const where the string appears. All strings will be changed as the phone language changes."; ObjectID = "V9x-qc-cVa"; */
+"V9x-qc-cVa.text" = "Then, instead of putting string literals directly into the code for the app, use NSLocalizedString(\"Hello\", comment: \"\"), set it to a constant, and use that const where the string appears. All strings will be changed as the phone language changes.";
+
+/* Class = "UILabel"; text = "Click on storyboard file, then in file inspector, select languages to add. This creates [storyboard].strings -- files you can edit with strings tied to unique keys. In the fr file, for example, delete the FR strings and replace with translated strings."; ObjectID = "Yw3-ec-jD1"; */
+"Yw3-ec-jD1.text" = "Click on storyboard file, then in file inspector, select languages to add. This creates [storyboard].strings -- files you can edit with strings tied to unique keys. In the fr file, for example, delete the FR strings and replace with translated strings.";
+
+/* Class = "UILabel"; text = "Editor -> Localization locking"; ObjectID = "ehY-SM-3jH"; */
+"ehY-SM-3jH.text" = "Editor -> Localization locking";
+
+/* Class = "UIButton"; normalTitle = "To Xliff"; ObjectID = "gQ6-ZB-nhl"; */
+"gQ6-ZB-nhl.normalTitle" = "To Xliff";
+
+/* Class = "UILabel"; text = "Go to the project in navigator and go to Info section"; ObjectID = "gbl-vo-O0H"; */
+"gbl-vo-O0H.text" = "Go to the project in navigator and go to Info section";
+
+/* Class = "UILabel"; text = "There are a few steps to internationalizing/localizing an app: Translating (xliff files help with this, but it's not absolutely necessary), using NS Localizable strings, internationalizing storyboards, internationalizing images, and localizing the app name/other app info. Also, importantly, preserving layouts with autolayout settings."; ObjectID = "gtL-MQ-3rS"; */
+"gtL-MQ-3rS.text" = "There are a few steps to internationalizing/localizing an app: Translating (xliff files help with this, but it's not absolutely necessary), using NS Localizable strings, internationalizing storyboards, internationalizing images, and localizing the app name/other app info. Also, importantly, preserving layouts with autolayout settings.";
+
+/* Class = "UILabel"; text = "The language-specific strings files don't automatically update, so after editing storyboard, you must always do UI changes first, save old .strings files elsewhere, then make the .string files again by turning off/on each language in file inspector."; ObjectID = "oD7-6X-zqA"; */
+"oD7-6X-zqA.text" = "The language-specific strings files don't automatically update, so after editing storyboard, you must always do UI changes first, save old .strings files elsewhere, then make the .string files again by turning off/on each language in file inspector.";
+
+/* Class = "UILabel"; text = "Export for localization"; ObjectID = "s9e-CK-apE"; */
+"s9e-CK-apE.text" = "Export for localization";
+
+/* Class = "UILabel"; text = "You can then add string pairs in each .strings file, e.g., \"Hello\" = \"Bonjour\" in the fr strings file"; ObjectID = "wEv-xR-aGh"; */
+"wEv-xR-aGh.text" = "You can then add string pairs in each .strings file, e.g., \"Hello\" = \"Bonjour\" in the fr strings file";
+
+/* Class = "UILabel"; text = "After creating the strings file, nav to it, click localize, and check each box for each language. You can add strings to the base strings file in the form \"Hello\" = \"Hello\" to be used in the key later"; ObjectID = "xUL-3E-DSR"; */
+"xUL-3E-DSR.text" = "After creating the strings file, nav to it, click localize, and check each box for each language. You can add strings to the base strings file in the form \"Hello\" = \"Hello\" to be used in the key later";

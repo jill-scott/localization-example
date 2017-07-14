@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="LocalizationExample/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body/>
+  </file>
+  <file original="LocalizationExample/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="7g8-ZK-Jbg.text">
+        <source>Translate the xliff file, for example using xliff.brightec.co.uk which provides a neat little interface for translating each string.</source>
+        <note>Class = "UILabel"; text = "Translate the xliff file, for example using xliff.brightec.co.uk which provides a neat little interface for translating each string."; ObjectID = "7g8-ZK-Jbg";</note>
+      </trans-unit>
+      <trans-unit id="8Wb-bs-6O0.normalTitle">
+        <source>Next</source>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "8Wb-bs-6O0";</note>
+      </trans-unit>
+      <trans-unit id="8tX-Hg-3bC.text">
+        <source>Testing here for a label that in English takes up two full lines. Layout adjustments</source>
+        <note>Class = "UILabel"; text = "Testing here for a label that in English takes up two full lines. Layout adjustments"; ObjectID = "8tX-Hg-3bC";</note>
+      </trans-unit>
+      <trans-unit id="MXC-Ht-5uZ.text">
+        <source>Add languages for localization</source>
+        <note>Class = "UILabel"; text = "Add languages for localization"; ObjectID = "MXC-Ht-5uZ";</note>
+      </trans-unit>
+      <trans-unit id="ehY-SM-3jH.text">
+        <source>Editor -&gt; Localization locking</source>
+        <note>Class = "UILabel"; text = "Editor -&gt; Localization locking"; ObjectID = "ehY-SM-3jH";</note>
+      </trans-unit>
+      <trans-unit id="gQ6-ZB-nhl.normalTitle">
+        <source>Here a button to go to another view</source>
+        <note>Class = "UIButton"; normalTitle = "Here a button to go to another view"; ObjectID = "gQ6-ZB-nhl";</note>
+      </trans-unit>
+      <trans-unit id="gbl-vo-O0H.text">
+        <source>Go to the project in navigator and go to Info section</source>
+        <note>Class = "UILabel"; text = "Go to the project in navigator and go to Info section"; ObjectID = "gbl-vo-O0H";</note>
+      </trans-unit>
+      <trans-unit id="s9e-CK-apE.text">
+        <source>Export for localization</source>
+        <note>Class = "UILabel"; text = "Export for localization"; ObjectID = "s9e-CK-apE";</note>
+      </trans-unit>
+      <trans-unit id="ssO-Ib-NSe.text">
+        <source>Here is an editable text field</source>
+        <note>Class = "UITextField"; text = "Here is an editable text field"; ObjectID = "ssO-Ib-NSe";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationExample/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
